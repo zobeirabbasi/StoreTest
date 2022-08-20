@@ -1,7 +1,7 @@
 ## Architecture and Pattertns
 
-1.DDD
-2.SOLID
+1. DDD
+2. SOLID
 
 
 ## Technologies
